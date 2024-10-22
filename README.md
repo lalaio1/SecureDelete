@@ -2,6 +2,8 @@
 
 SecureDelete is a Java tool designed to securely delete files and directories from your system. By overwriting the data multiple times with random patterns and zeros, it ensures that sensitive information is irretrievable.
 
+![Fuck](./bu.png)
+
 ## Features 🌟
 
 - Securely deletes files and directories
